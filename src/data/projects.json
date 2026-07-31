@@ -196,33 +196,6 @@
     "team": 14
   },
   {
-    "github": "ayenyeinsan22",
-    "name": "ayenyeinsan22",
-    "title": "linguify",
-    "desc": "Linguify is a platform for English Learners where they can enhance language proficiency.",
-    "repo_url": "https://github.com/AyeNyeinSan22/linguify",
-    "live_url": "https://linguify-eta.vercel.app/",
-    "slides_raw": "https://raw.githubusercontent.com/AyeNyeinSan22/linguify/main/slides/tech-stack.md",
-    "slides_base": "https://raw.githubusercontent.com/AyeNyeinSan22/linguify/main/slides/",
-    "screenshot_url": "https://raw.githubusercontent.com/AyeNyeinSan22/linguify/main/screenshots/home.png",
-    "screenshots": [
-      "https://raw.githubusercontent.com/AyeNyeinSan22/linguify/main/screenshots/home.png",
-      "https://raw.githubusercontent.com/AyeNyeinSan22/linguify/main/screenshots/coach.png",
-      "https://raw.githubusercontent.com/AyeNyeinSan22/linguify/main/screenshots/practice.png",
-      "https://raw.githubusercontent.com/AyeNyeinSan22/linguify/main/screenshots/translate.png",
-      "https://raw.githubusercontent.com/AyeNyeinSan22/linguify/main/screenshots/flashcards.png",
-      "https://raw.githubusercontent.com/AyeNyeinSan22/linguify/main/screenshots/voicecoach.png"
-    ],
-    "type": "web-app",
-    "stack": [
-      "TypeScript",
-      "Python",
-      "CSS"
-    ],
-    "chapter": 6,
-    "team": 18
-  },
-  {
     "github": "bhonepyisone",
     "name": "bhonepyisone",
     "title": "PayProof",
@@ -1101,7 +1074,7 @@
     "stack": [
       "TypeScript",
       "Python",
-      "HTML"
+      "PLpgSQL"
     ],
     "chapter": 6,
     "team": 7
@@ -2543,10 +2516,10 @@
     "github": "yayyaylay1996",
     "name": "yayyaylay1996",
     "title": "DigitalSellingProduct-bot",
-    "desc": "A Telegram bot that runs a real digital-subscription reselling business — customers browse products, pay, get admin-verified, and receive their accounts automatically.",
+    "desc": "A Telegram bot for selling digital products and managing orders automatically.",
     "repo_url": "https://github.com/yayyaylay1996/DigitalSellingProduct-bot",
-    "live_url": "https://t.me/GoingForwardDigitalShopBot",
-    "slides_raw": "https://raw.githubusercontent.com/yayyaylay1996/DigitalSellingProduct-bot/main/slides/intro.md",
+    "live_url": "https://github.com/yayyaylay1996/DigitalSellingProduct-bot",
+    "slides_raw": "https://raw.githubusercontent.com/yayyaylay1996/DigitalSellingProduct-bot/main/slides/tech-stack.md",
     "slides_base": "https://raw.githubusercontent.com/yayyaylay1996/DigitalSellingProduct-bot/main/slides/",
     "screenshot_url": "https://raw.githubusercontent.com/yayyaylay1996/DigitalSellingProduct-bot/main/screenshots/1.png",
     "screenshots": [
@@ -2563,7 +2536,7 @@
     "stack": [
       "JavaScript"
     ],
-    "chapter": 4,
+    "chapter": 5,
     "team": 14
   },
   {
