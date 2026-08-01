@@ -1656,7 +1656,7 @@
     "desc": "a digital wishing well",
     "repo_url": "https://github.com/nyan-dev/wishing-well",
     "live_url": "https://nyan-dev.github.io/wishing-well/",
-    "slides_raw": "https://raw.githubusercontent.com/nyan-dev/wishing-well/main/slides/tech-stack.md",
+    "slides_raw": "https://raw.githubusercontent.com/nyan-dev/wishing-well/main/slides/pitch.md",
     "slides_base": "https://raw.githubusercontent.com/nyan-dev/wishing-well/main/slides/",
     "screenshot_url": "https://raw.githubusercontent.com/nyan-dev/wishing-well/main/screenshots/screen01.png",
     "screenshots": [
@@ -1671,7 +1671,7 @@
       "CSS",
       "HTML"
     ],
-    "chapter": 5,
+    "chapter": 6,
     "team": 12
   },
   {
