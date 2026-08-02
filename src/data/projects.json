@@ -1431,94 +1431,6 @@
     "team": 17
   },
   {
-    "github": "myathtetkyaw",
-    "name": "myathtetkyaw",
-    "title": "tech-news-digest",
-    "desc": "Fetches the top 10 trending Hacker News stories, groups them by topic and displays them in a dark-themed web page.",
-    "repo_url": "https://github.com/MyatHtetKyaw/tech-news-digest",
-    "live_url": "https://ai-tech-news-digest.vercel.app/",
-    "slides_raw": "https://raw.githubusercontent.com/MyatHtetKyaw/tech-news-digest/main/slides/pitch.md",
-    "slides_base": "https://raw.githubusercontent.com/MyatHtetKyaw/tech-news-digest/main/slides/",
-    "screenshot_url": "https://raw.githubusercontent.com/MyatHtetKyaw/tech-news-digest/main/screenshots/01.png",
-    "screenshots": [
-      "https://raw.githubusercontent.com/MyatHtetKyaw/tech-news-digest/main/screenshots/01.png",
-      "https://raw.githubusercontent.com/MyatHtetKyaw/tech-news-digest/main/screenshots/02.png",
-      "https://raw.githubusercontent.com/MyatHtetKyaw/tech-news-digest/main/screenshots/03.png",
-      "https://raw.githubusercontent.com/MyatHtetKyaw/tech-news-digest/main/screenshots/04.png",
-      "https://raw.githubusercontent.com/MyatHtetKyaw/tech-news-digest/main/screenshots/05.png"
-    ],
-    "type": "api",
-    "stack": [
-      "TypeScript",
-      "EJS",
-      "JavaScript"
-    ],
-    "chapter": 4,
-    "team": 18
-  },
-  {
-    "github": "myatsumon253",
-    "name": "myatsumon253",
-    "title": "charm-and-crumb",
-    "desc": "Customized clay jewelry website",
-    "repo_url": "https://github.com/MyatSuMon253/charm-and-crumb",
-    "live_url": "https://charm-and-crumb.vercel.app/",
-    "slides_raw": "https://raw.githubusercontent.com/MyatSuMon253/charm-and-crumb/main/slides/gallery.md",
-    "slides_base": "https://raw.githubusercontent.com/MyatSuMon253/charm-and-crumb/main/slides/",
-    "screenshot_url": "https://raw.githubusercontent.com/MyatSuMon253/charm-and-crumb/main/screenshots/step-1.png",
-    "screenshots": [
-      "https://raw.githubusercontent.com/MyatSuMon253/charm-and-crumb/main/screenshots/step-1.png",
-      "https://raw.githubusercontent.com/MyatSuMon253/charm-and-crumb/main/screenshots/step-2.png",
-      "https://raw.githubusercontent.com/MyatSuMon253/charm-and-crumb/main/screenshots/step-3.png",
-      "https://raw.githubusercontent.com/MyatSuMon253/charm-and-crumb/main/screenshots/step-4.png",
-      "https://raw.githubusercontent.com/MyatSuMon253/charm-and-crumb/main/screenshots/01-home.png",
-      "https://raw.githubusercontent.com/MyatSuMon253/charm-and-crumb/main/screenshots/04-placement.png",
-      "https://raw.githubusercontent.com/MyatSuMon253/charm-and-crumb/main/screenshots/03-charms-tray.png",
-      "https://raw.githubusercontent.com/MyatSuMon253/charm-and-crumb/main/screenshots/05-confirmation.png",
-      "https://raw.githubusercontent.com/MyatSuMon253/charm-and-crumb/main/screenshots/02-base-material.png",
-      "https://raw.githubusercontent.com/MyatSuMon253/charm-and-crumb/main/screenshots/ch6-mobile-collection.png"
-    ],
-    "type": "web-app",
-    "stack": [
-      "TypeScript",
-      "CSS",
-      "JavaScript"
-    ],
-    "chapter": 6,
-    "team": 16
-  },
-  {
-    "github": "myoaung",
-    "name": "myoaung",
-    "title": "School-Information-System",
-    "desc": "Full-stack School Information System with AI-powered chatbot, natural language queries, predictive analytics, report generation, and auto scheduling. Built for Myanmar schools.",
-    "repo_url": "https://github.com/myoaung/School-Information-System",
-    "live_url": "https://schoolhub-mm.vercel.app",
-    "slides_raw": "https://raw.githubusercontent.com/myoaung/School-Information-System/main/slides/tech-stack.md",
-    "slides_base": "https://raw.githubusercontent.com/myoaung/School-Information-System/main/slides/",
-    "screenshot_url": "https://raw.githubusercontent.com/myoaung/School-Information-System/main/screenshots/02-login.png",
-    "screenshots": [
-      "https://raw.githubusercontent.com/myoaung/School-Information-System/main/screenshots/02-login.png",
-      "https://raw.githubusercontent.com/myoaung/School-Information-System/main/screenshots/05-classes.png",
-      "https://raw.githubusercontent.com/myoaung/School-Information-System/main/screenshots/06-contact.png",
-      "https://raw.githubusercontent.com/myoaung/School-Information-System/main/screenshots/01-homepage.png",
-      "https://raw.githubusercontent.com/myoaung/School-Information-System/main/screenshots/03-register.png",
-      "https://raw.githubusercontent.com/myoaung/School-Information-System/main/screenshots/07-dashboard.png",
-      "https://raw.githubusercontent.com/myoaung/School-Information-System/main/screenshots/04-announcements.png",
-      "https://raw.githubusercontent.com/myoaung/School-Information-System/main/ch-6/myoaung/screenshots/02-login.png",
-      "https://raw.githubusercontent.com/myoaung/School-Information-System/main/ch-6/myoaung/screenshots/06-contact.png",
-      "https://raw.githubusercontent.com/myoaung/School-Information-System/main/ch-6/myoaung/screenshots/01-homepage.png"
-    ],
-    "type": "web-app",
-    "stack": [
-      "HTML",
-      "JavaScript",
-      "Python"
-    ],
-    "chapter": 6,
-    "team": 18
-  },
-  {
     "github": "myominlin",
     "name": "myominlin",
     "title": "mood-flow",
@@ -1572,37 +1484,6 @@
     ],
     "chapter": 6,
     "team": 15
-  },
-  {
-    "github": "nanaungoo",
-    "name": "nanaungoo",
-    "title": "latrinalia",
-    "desc": "Digital toilet graffiti wall — a PWA for anonymous stall-side scribbling",
-    "repo_url": "https://github.com/nanaungoo/latrinalia",
-    "live_url": "https://latrinalia.nannaungoo.workers.dev",
-    "slides_raw": "https://raw.githubusercontent.com/nanaungoo/latrinalia/main/slides/pechakucha-6x20.md",
-    "slides_base": "https://raw.githubusercontent.com/nanaungoo/latrinalia/main/slides/",
-    "screenshot_url": "https://raw.githubusercontent.com/nanaungoo/latrinalia/main/public/screenshot-lobby.png",
-    "screenshots": [
-      "https://raw.githubusercontent.com/nanaungoo/latrinalia/main/public/screenshot-lobby.png",
-      "https://raw.githubusercontent.com/nanaungoo/latrinalia/main/public/screenshot-stall.png",
-      "https://raw.githubusercontent.com/nanaungoo/latrinalia/main/public/screenshot-stall2.png",
-      "https://raw.githubusercontent.com/nanaungoo/latrinalia/main/public/screenshot-compose.png",
-      "https://raw.githubusercontent.com/nanaungoo/latrinalia/main/public/screenshot-janitor.png",
-      "https://raw.githubusercontent.com/nanaungoo/latrinalia/main/public/screenshot-lobby-mobile.png",
-      "https://raw.githubusercontent.com/nanaungoo/latrinalia/main/public/screenshot-stall-mobile.png",
-      "https://raw.githubusercontent.com/nanaungoo/latrinalia/main/public/screenshot-lobby-desktop.png",
-      "https://raw.githubusercontent.com/nanaungoo/latrinalia/main/public/screenshot-stall-desktop.png",
-      "https://raw.githubusercontent.com/nanaungoo/latrinalia/main/public/screenshot-stall2-mobile.png"
-    ],
-    "type": "web-app",
-    "stack": [
-      "JavaScript",
-      "CSS",
-      "HTML"
-    ],
-    "chapter": 6,
-    "team": 14
   },
   {
     "github": "naw2",
@@ -2035,32 +1916,6 @@
     "team": 8
   },
   {
-    "github": "shirleyshyun-lgtm",
-    "name": "shirleyshyun-lgtm",
-    "title": "MoodPlaylist",
-    "desc": "Playlist based on Mood",
-    "repo_url": "https://github.com/shirleyshyun-lgtm/MoodPlaylist",
-    "live_url": "https://moodplaylist.vercel.app",
-    "slides_raw": "https://raw.githubusercontent.com/shirleyshyun-lgtm/MoodPlaylist/main/slides/tech-stack.md",
-    "slides_base": "https://raw.githubusercontent.com/shirleyshyun-lgtm/MoodPlaylist/main/slides/",
-    "screenshot_url": "https://raw.githubusercontent.com/shirleyshyun-lgtm/MoodPlaylist/main/public/screenshots/home.png",
-    "screenshots": [
-      "https://raw.githubusercontent.com/shirleyshyun-lgtm/MoodPlaylist/main/public/screenshots/home.png",
-      "https://raw.githubusercontent.com/shirleyshyun-lgtm/MoodPlaylist/main/public/screenshots/admin.png",
-      "https://raw.githubusercontent.com/shirleyshyun-lgtm/MoodPlaylist/main/public/screenshots/history.png",
-      "https://raw.githubusercontent.com/shirleyshyun-lgtm/MoodPlaylist/main/public/screenshots/home-mobile.png",
-      "https://raw.githubusercontent.com/shirleyshyun-lgtm/MoodPlaylist/main/public/screenshots/home-desktop.png"
-    ],
-    "type": "web-app",
-    "stack": [
-      "HTML",
-      "JavaScript",
-      "CSS"
-    ],
-    "chapter": 6,
-    "team": 11
-  },
-  {
     "github": "soe-yee-mon-htet",
     "name": "soe-yee-mon-htet",
     "title": "symh-portfolio",
@@ -2089,29 +1944,6 @@
     ],
     "chapter": 6,
     "team": 14
-  },
-  {
-    "github": "susandarlin",
-    "name": "susandarlin",
-    "title": "trip_planner",
-    "desc": "",
-    "repo_url": "https://github.com/susandarlin/trip_planner",
-    "live_url": "https://trip-planner-mu-taupe.vercel.app/",
-    "slides_raw": "https://raw.githubusercontent.com/susandarlin/trip_planner/main/slides/pitch.md",
-    "slides_base": "https://raw.githubusercontent.com/susandarlin/trip_planner/main/slides/",
-    "screenshot_url": "https://raw.githubusercontent.com/susandarlin/trip_planner/main/screenshots/screenshot-daily-plan.png",
-    "screenshots": [
-      "https://raw.githubusercontent.com/susandarlin/trip_planner/main/screenshots/screenshot-daily-plan.png",
-      "https://raw.githubusercontent.com/susandarlin/trip_planner/main/screenshots/screenshot-sample-data.png",
-      "https://raw.githubusercontent.com/susandarlin/trip_planner/main/screenshots/screenshot-default-view.png"
-    ],
-    "type": "web-app",
-    "stack": [
-      "JavaScript",
-      "HTML"
-    ],
-    "chapter": 6,
-    "team": 17
   },
   {
     "github": "swan1792",
