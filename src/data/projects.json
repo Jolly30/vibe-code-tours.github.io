@@ -1880,36 +1880,6 @@
     "team": 6
   },
   {
-    "github": "royallyre7",
-    "name": "royallyre7",
-    "title": "lumeokids",
-    "desc": "",
-    "repo_url": "https://github.com/royallyre7/lumeokids",
-    "live_url": "https://github.com/royallyre7/lumeokids/releases",
-    "slides_raw": "https://raw.githubusercontent.com/royallyre7/lumeokids/main/slides/tech-stack.md",
-    "slides_base": "https://raw.githubusercontent.com/royallyre7/lumeokids/main/slides/",
-    "screenshot_url": "https://raw.githubusercontent.com/royallyre7/lumeokids/main/screenshots/02-login.png",
-    "screenshots": [
-      "https://raw.githubusercontent.com/royallyre7/lumeokids/main/screenshots/02-login.png",
-      "https://raw.githubusercontent.com/royallyre7/lumeokids/main/screenshots/01-landing.png",
-      "https://raw.githubusercontent.com/royallyre7/lumeokids/main/screenshots/03-register.png",
-      "https://raw.githubusercontent.com/royallyre7/lumeokids/main/screenshots/04-dashboard.png",
-      "https://raw.githubusercontent.com/royallyre7/lumeokids/main/screenshots/ch6-01-landing.png",
-      "https://raw.githubusercontent.com/royallyre7/lumeokids/main/screenshots/05-child-detail.png",
-      "https://raw.githubusercontent.com/royallyre7/lumeokids/main/screenshots/ch6-02-dashboard.png",
-      "https://raw.githubusercontent.com/royallyre7/lumeokids/main/screenshots/06-assessment-results.png",
-      "https://raw.githubusercontent.com/royallyre7/lumeokids/main/screenshots/ch6-03-assessment-results.png"
-    ],
-    "type": "web-app",
-    "stack": [
-      "TypeScript",
-      "CSS",
-      "JavaScript"
-    ],
-    "chapter": 5,
-    "team": 3
-  },
-  {
     "github": "saiwaiyanphyo",
     "name": "saiwaiyanphyo",
     "title": "job-your-love",
