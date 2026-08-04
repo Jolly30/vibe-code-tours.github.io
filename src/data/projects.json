@@ -1894,8 +1894,11 @@
       "https://raw.githubusercontent.com/royallyre7/lumeokids/main/screenshots/01-landing.png",
       "https://raw.githubusercontent.com/royallyre7/lumeokids/main/screenshots/03-register.png",
       "https://raw.githubusercontent.com/royallyre7/lumeokids/main/screenshots/04-dashboard.png",
+      "https://raw.githubusercontent.com/royallyre7/lumeokids/main/screenshots/ch6-01-landing.png",
       "https://raw.githubusercontent.com/royallyre7/lumeokids/main/screenshots/05-child-detail.png",
-      "https://raw.githubusercontent.com/royallyre7/lumeokids/main/screenshots/06-assessment-results.png"
+      "https://raw.githubusercontent.com/royallyre7/lumeokids/main/screenshots/ch6-02-dashboard.png",
+      "https://raw.githubusercontent.com/royallyre7/lumeokids/main/screenshots/06-assessment-results.png",
+      "https://raw.githubusercontent.com/royallyre7/lumeokids/main/screenshots/ch6-03-assessment-results.png"
     ],
     "type": "web-app",
     "stack": [
