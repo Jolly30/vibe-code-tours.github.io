@@ -1256,15 +1256,15 @@
     "name": "mhkaungpyae",
     "title": "Medical_Citation_Chatbot",
     "desc": "Generative RAG chatbot that answers any medical question using live Wikipedia and OpenFDA data, streamed through a local MedGemma model with clickable citations.",
-    "repo_url": "https://github.com/mhkaungpyae/Medical_Citation_Chatbot",
+    "repo_url": "https://github.com/MHKaungPyae/Medical_Citation_Chatbot",
     "live_url": "https://medical-citation-chatbot.vercel.app",
-    "slides_raw": "https://raw.githubusercontent.com/mhkaungpyae/Medical_Citation_Chatbot/main/slides/intro.md",
-    "slides_base": "https://raw.githubusercontent.com/mhkaungpyae/Medical_Citation_Chatbot/main/slides/",
-    "screenshot_url": "https://raw.githubusercontent.com/mhkaungpyae/Medical_Citation_Chatbot/main/screenshots/home-page.png",
+    "slides_raw": "https://raw.githubusercontent.com/MHKaungPyae/Medical_Citation_Chatbot/main/slides/intro.md",
+    "slides_base": "https://raw.githubusercontent.com/MHKaungPyae/Medical_Citation_Chatbot/main/slides/",
+    "screenshot_url": "https://raw.githubusercontent.com/MHKaungPyae/Medical_Citation_Chatbot/main/screenshots/home-page.png",
     "screenshots": [
-      "https://raw.githubusercontent.com/mhkaungpyae/Medical_Citation_Chatbot/main/screenshots/home-page.png",
-      "https://raw.githubusercontent.com/mhkaungpyae/Medical_Citation_Chatbot/main/screenshots/login-page.png",
-      "https://raw.githubusercontent.com/mhkaungpyae/Medical_Citation_Chatbot/main/screenshots/register-page.png"
+      "https://raw.githubusercontent.com/MHKaungPyae/Medical_Citation_Chatbot/main/screenshots/home-page.png",
+      "https://raw.githubusercontent.com/MHKaungPyae/Medical_Citation_Chatbot/main/screenshots/login-page.png",
+      "https://raw.githubusercontent.com/MHKaungPyae/Medical_Citation_Chatbot/main/screenshots/register-page.png"
     ],
     "type": "other",
     "stack": [
@@ -1435,19 +1435,19 @@
   {
     "github": "myathtetkyaw",
     "name": "myathtetkyaw",
-    "title": "tech-news-digest",
+    "title": "ai-news-digest",
     "desc": "Fetches the top 10 trending Hacker News stories, groups them by topic and displays them in a dark-themed web page.",
-    "repo_url": "https://github.com/MyatHtetKyaw/tech-news-digest",
+    "repo_url": "https://github.com/MyatHtetKyaw/ai-news-digest",
     "live_url": "https://ai-tech-news-digest.vercel.app/",
-    "slides_raw": "https://raw.githubusercontent.com/MyatHtetKyaw/tech-news-digest/main/slides/pitch.md",
-    "slides_base": "https://raw.githubusercontent.com/MyatHtetKyaw/tech-news-digest/main/slides/",
-    "screenshot_url": "https://raw.githubusercontent.com/MyatHtetKyaw/tech-news-digest/main/screenshots/01.png",
+    "slides_raw": "https://raw.githubusercontent.com/MyatHtetKyaw/ai-news-digest/main/slides/pitch.md",
+    "slides_base": "https://raw.githubusercontent.com/MyatHtetKyaw/ai-news-digest/main/slides/",
+    "screenshot_url": "https://raw.githubusercontent.com/MyatHtetKyaw/ai-news-digest/main/screenshots/01.png",
     "screenshots": [
-      "https://raw.githubusercontent.com/MyatHtetKyaw/tech-news-digest/main/screenshots/01.png",
-      "https://raw.githubusercontent.com/MyatHtetKyaw/tech-news-digest/main/screenshots/02.png",
-      "https://raw.githubusercontent.com/MyatHtetKyaw/tech-news-digest/main/screenshots/03.png",
-      "https://raw.githubusercontent.com/MyatHtetKyaw/tech-news-digest/main/screenshots/04.png",
-      "https://raw.githubusercontent.com/MyatHtetKyaw/tech-news-digest/main/screenshots/05.png"
+      "https://raw.githubusercontent.com/MyatHtetKyaw/ai-news-digest/main/screenshots/01.png",
+      "https://raw.githubusercontent.com/MyatHtetKyaw/ai-news-digest/main/screenshots/02.png",
+      "https://raw.githubusercontent.com/MyatHtetKyaw/ai-news-digest/main/screenshots/03.png",
+      "https://raw.githubusercontent.com/MyatHtetKyaw/ai-news-digest/main/screenshots/04.png",
+      "https://raw.githubusercontent.com/MyatHtetKyaw/ai-news-digest/main/screenshots/05.png"
     ],
     "type": "api",
     "stack": [
