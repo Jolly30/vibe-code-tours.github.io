@@ -2345,6 +2345,26 @@
     "team": 6
   },
   {
+    "github": "vibecode-ting",
+    "name": "vibecode-ting",
+    "title": "myanmardev.com",
+    "desc": "🔹 Personal Project Builds for Cohort 1 :  https://vibecode.tours/cohort/1/   -----------------------------------------🔹 Live: https://app.myanmardev.com",
+    "repo_url": "https://github.com/vibecode-ting/myanmardev.com",
+    "live_url": "https://app.myanmardev.com",
+    "slides_raw": "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/archive/slides/intro.md",
+    "slides_base": "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/archive/slides/",
+    "screenshot_url": null,
+    "screenshots": [],
+    "type": "web-app",
+    "stack": [
+      "TypeScript",
+      "Astro",
+      "JavaScript"
+    ],
+    "chapter": 6,
+    "team": 5
+  },
+  {
     "github": "wailynn351",
     "name": "wailynn351",
     "title": "wc2026-world-cup-predictor",
