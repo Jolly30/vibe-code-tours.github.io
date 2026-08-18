@@ -489,6 +489,8 @@
     ],
     "type": "web-app",
     "stack": [
+      "TypeScript",
+      "JavaScript",
       "HTML"
     ],
     "chapter": 4,
