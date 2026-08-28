@@ -1882,6 +1882,51 @@
     "team": 6
   },
   {
+    "github": "saiwaiyanphyo",
+    "name": "saiwaiyanphyo",
+    "title": "job-your-love",
+    "desc": "Job Your Love is a full-stack, spreadsheet-style job application tracker built with modern web technologies. It provides a clean, intuitive interface for managing and organizing your job search journey.",
+    "repo_url": "https://github.com/saiwaiyanphyo/job-your-love",
+    "live_url": "https://job-your-love.megiapps.workers.dev/",
+    "slides_raw": "https://raw.githubusercontent.com/saiwaiyanphyo/job-your-love/main/slides/tech-stack.md",
+    "slides_base": "https://raw.githubusercontent.com/saiwaiyanphyo/job-your-love/main/slides/",
+    "screenshot_url": null,
+    "screenshots": [],
+    "type": "web-app",
+    "stack": [
+      "TypeScript",
+      "PLpgSQL",
+      "CSS"
+    ],
+    "chapter": 5,
+    "team": 4
+  },
+  {
+    "github": "samm24tt",
+    "name": "samm24tt",
+    "title": "Personal-Project",
+    "desc": "",
+    "repo_url": "https://github.com/Samm24TT/Personal-Project",
+    "live_url": "https://personal-project-xi-coral.vercel.app/",
+    "slides_raw": "https://raw.githubusercontent.com/Samm24TT/Personal-Project/main/slides/tech-stack.md",
+    "slides_base": "https://raw.githubusercontent.com/Samm24TT/Personal-Project/main/slides/",
+    "screenshot_url": "https://raw.githubusercontent.com/Samm24TT/Personal-Project/main/screenshots/game-play.png",
+    "screenshots": [
+      "https://raw.githubusercontent.com/Samm24TT/Personal-Project/main/screenshots/game-play.png",
+      "https://raw.githubusercontent.com/Samm24TT/Personal-Project/main/screenshots/leaderboard.png",
+      "https://raw.githubusercontent.com/Samm24TT/Personal-Project/main/screenshots/start-screen.png",
+      "https://raw.githubusercontent.com/Samm24TT/Personal-Project/main/screenshots/custome-player.png"
+    ],
+    "type": "web-app",
+    "stack": [
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ],
+    "chapter": 6,
+    "team": 5
+  },
+  {
     "github": "sandar577",
     "name": "sandar577",
     "title": "cinema-song-requests",
