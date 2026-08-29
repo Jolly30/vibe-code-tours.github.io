@@ -196,6 +196,33 @@
     "team": 14
   },
   {
+    "github": "ayenyeinsan22",
+    "name": "ayenyeinsan22",
+    "title": "linguify",
+    "desc": "Linguify is a platform for English Learners where they can enhance language proficiency.",
+    "repo_url": "https://github.com/AyeNyeinSan22/linguify",
+    "live_url": "https://linguify-eta.vercel.app/",
+    "slides_raw": "https://raw.githubusercontent.com/AyeNyeinSan22/linguify/main/slides/tech-stack.md",
+    "slides_base": "https://raw.githubusercontent.com/AyeNyeinSan22/linguify/main/slides/",
+    "screenshot_url": "https://raw.githubusercontent.com/AyeNyeinSan22/linguify/main/screenshots/home.png",
+    "screenshots": [
+      "https://raw.githubusercontent.com/AyeNyeinSan22/linguify/main/screenshots/home.png",
+      "https://raw.githubusercontent.com/AyeNyeinSan22/linguify/main/screenshots/coach.png",
+      "https://raw.githubusercontent.com/AyeNyeinSan22/linguify/main/screenshots/practice.png",
+      "https://raw.githubusercontent.com/AyeNyeinSan22/linguify/main/screenshots/translate.png",
+      "https://raw.githubusercontent.com/AyeNyeinSan22/linguify/main/screenshots/flashcards.png",
+      "https://raw.githubusercontent.com/AyeNyeinSan22/linguify/main/screenshots/voicecoach.png"
+    ],
+    "type": "web-app",
+    "stack": [
+      "TypeScript",
+      "Python",
+      "CSS"
+    ],
+    "chapter": 6,
+    "team": 18
+  },
+  {
     "github": "bhonepyisone",
     "name": "bhonepyisone",
     "title": "PayProof",
@@ -462,6 +489,8 @@
     ],
     "type": "web-app",
     "stack": [
+      "TypeScript",
+      "JavaScript",
       "HTML"
     ],
     "chapter": 4,
@@ -1227,15 +1256,15 @@
     "name": "mhkaungpyae",
     "title": "Medical_Citation_Chatbot",
     "desc": "Generative RAG chatbot that answers any medical question using live Wikipedia and OpenFDA data, streamed through a local MedGemma model with clickable citations.",
-    "repo_url": "https://github.com/mhkaungpyae/Medical_Citation_Chatbot",
+    "repo_url": "https://github.com/MHKaungPyae/Medical_Citation_Chatbot",
     "live_url": "https://medical-citation-chatbot.vercel.app",
-    "slides_raw": "https://raw.githubusercontent.com/mhkaungpyae/Medical_Citation_Chatbot/main/slides/intro.md",
-    "slides_base": "https://raw.githubusercontent.com/mhkaungpyae/Medical_Citation_Chatbot/main/slides/",
-    "screenshot_url": "https://raw.githubusercontent.com/mhkaungpyae/Medical_Citation_Chatbot/main/screenshots/home-page.png",
+    "slides_raw": "https://raw.githubusercontent.com/MHKaungPyae/Medical_Citation_Chatbot/main/slides/intro.md",
+    "slides_base": "https://raw.githubusercontent.com/MHKaungPyae/Medical_Citation_Chatbot/main/slides/",
+    "screenshot_url": "https://raw.githubusercontent.com/MHKaungPyae/Medical_Citation_Chatbot/main/screenshots/home-page.png",
     "screenshots": [
-      "https://raw.githubusercontent.com/mhkaungpyae/Medical_Citation_Chatbot/main/screenshots/home-page.png",
-      "https://raw.githubusercontent.com/mhkaungpyae/Medical_Citation_Chatbot/main/screenshots/login-page.png",
-      "https://raw.githubusercontent.com/mhkaungpyae/Medical_Citation_Chatbot/main/screenshots/register-page.png"
+      "https://raw.githubusercontent.com/MHKaungPyae/Medical_Citation_Chatbot/main/screenshots/home-page.png",
+      "https://raw.githubusercontent.com/MHKaungPyae/Medical_Citation_Chatbot/main/screenshots/login-page.png",
+      "https://raw.githubusercontent.com/MHKaungPyae/Medical_Citation_Chatbot/main/screenshots/register-page.png"
     ],
     "type": "other",
     "stack": [
@@ -1406,19 +1435,19 @@
   {
     "github": "myathtetkyaw",
     "name": "myathtetkyaw",
-    "title": "tech-news-digest",
+    "title": "ai-news-digest",
     "desc": "Fetches the top 10 trending Hacker News stories, groups them by topic and displays them in a dark-themed web page.",
-    "repo_url": "https://github.com/MyatHtetKyaw/tech-news-digest",
+    "repo_url": "https://github.com/MyatHtetKyaw/ai-news-digest",
     "live_url": "https://ai-tech-news-digest.vercel.app/",
-    "slides_raw": "https://raw.githubusercontent.com/MyatHtetKyaw/tech-news-digest/main/slides/pitch.md",
-    "slides_base": "https://raw.githubusercontent.com/MyatHtetKyaw/tech-news-digest/main/slides/",
-    "screenshot_url": "https://raw.githubusercontent.com/MyatHtetKyaw/tech-news-digest/main/screenshots/01.png",
+    "slides_raw": "https://raw.githubusercontent.com/MyatHtetKyaw/ai-news-digest/main/slides/pitch.md",
+    "slides_base": "https://raw.githubusercontent.com/MyatHtetKyaw/ai-news-digest/main/slides/",
+    "screenshot_url": "https://raw.githubusercontent.com/MyatHtetKyaw/ai-news-digest/main/screenshots/01.png",
     "screenshots": [
-      "https://raw.githubusercontent.com/MyatHtetKyaw/tech-news-digest/main/screenshots/01.png",
-      "https://raw.githubusercontent.com/MyatHtetKyaw/tech-news-digest/main/screenshots/02.png",
-      "https://raw.githubusercontent.com/MyatHtetKyaw/tech-news-digest/main/screenshots/03.png",
-      "https://raw.githubusercontent.com/MyatHtetKyaw/tech-news-digest/main/screenshots/04.png",
-      "https://raw.githubusercontent.com/MyatHtetKyaw/tech-news-digest/main/screenshots/05.png"
+      "https://raw.githubusercontent.com/MyatHtetKyaw/ai-news-digest/main/screenshots/01.png",
+      "https://raw.githubusercontent.com/MyatHtetKyaw/ai-news-digest/main/screenshots/02.png",
+      "https://raw.githubusercontent.com/MyatHtetKyaw/ai-news-digest/main/screenshots/03.png",
+      "https://raw.githubusercontent.com/MyatHtetKyaw/ai-news-digest/main/screenshots/04.png",
+      "https://raw.githubusercontent.com/MyatHtetKyaw/ai-news-digest/main/screenshots/05.png"
     ],
     "type": "api",
     "stack": [
@@ -1484,9 +1513,9 @@
     ],
     "type": "web-app",
     "stack": [
+      "HTML",
       "JavaScript",
-      "Python",
-      "PLpgSQL"
+      "Python"
     ],
     "chapter": 6,
     "team": 18
@@ -1629,7 +1658,7 @@
     "desc": "a digital wishing well",
     "repo_url": "https://github.com/nyan-dev/wishing-well",
     "live_url": "https://nyan-dev.github.io/wishing-well/",
-    "slides_raw": "https://raw.githubusercontent.com/nyan-dev/wishing-well/main/slides/tech-stack.md",
+    "slides_raw": "https://raw.githubusercontent.com/nyan-dev/wishing-well/main/slides/pitch.md",
     "slides_base": "https://raw.githubusercontent.com/nyan-dev/wishing-well/main/slides/",
     "screenshot_url": "https://raw.githubusercontent.com/nyan-dev/wishing-well/main/screenshots/screen01.png",
     "screenshots": [
@@ -1644,7 +1673,7 @@
       "CSS",
       "HTML"
     ],
-    "chapter": 5,
+    "chapter": 6,
     "team": 12
   },
   {
@@ -1851,33 +1880,6 @@
     ],
     "chapter": 4,
     "team": 6
-  },
-  {
-    "github": "royallyre7",
-    "name": "royallyre7",
-    "title": "lumeokids",
-    "desc": "",
-    "repo_url": "https://github.com/royallyre7/lumeokids",
-    "live_url": "https://github.com/royallyre7/lumeokids/releases",
-    "slides_raw": "https://raw.githubusercontent.com/royallyre7/lumeokids/main/slides/tech-stack.md",
-    "slides_base": "https://raw.githubusercontent.com/royallyre7/lumeokids/main/slides/",
-    "screenshot_url": "https://raw.githubusercontent.com/royallyre7/lumeokids/main/screenshots/02-login.png",
-    "screenshots": [
-      "https://raw.githubusercontent.com/royallyre7/lumeokids/main/screenshots/02-login.png",
-      "https://raw.githubusercontent.com/royallyre7/lumeokids/main/screenshots/01-landing.png",
-      "https://raw.githubusercontent.com/royallyre7/lumeokids/main/screenshots/03-register.png",
-      "https://raw.githubusercontent.com/royallyre7/lumeokids/main/screenshots/04-dashboard.png",
-      "https://raw.githubusercontent.com/royallyre7/lumeokids/main/screenshots/05-child-detail.png",
-      "https://raw.githubusercontent.com/royallyre7/lumeokids/main/screenshots/06-assessment-results.png"
-    ],
-    "type": "web-app",
-    "stack": [
-      "TypeScript",
-      "CSS",
-      "JavaScript"
-    ],
-    "chapter": 5,
-    "team": 3
   },
   {
     "github": "saiwaiyanphyo",
@@ -2343,6 +2345,37 @@
     "team": 6
   },
   {
+    "github": "vibecode-ting",
+    "name": "vibecode-ting",
+    "title": "myanmardev.com",
+    "desc": "",
+    "repo_url": "https://github.com/vibecode-ting/myanmardev.com",
+    "live_url": "https://app.myanmardev.com",
+    "slides_raw": "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/archive/slides/intro.md",
+    "slides_base": "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/archive/slides/",
+    "screenshot_url": "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/screenshots/02_cmd.png",
+    "screenshots": [
+      "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/screenshots/02_cmd.png",
+      "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/screenshots/01_main.png",
+      "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/screenshots/04_check.png",
+      "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/screenshots/01_main_mm.png",
+      "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/screenshots/07_roadmap.png",
+      "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/screenshots/09_DOMAINS.png",
+      "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/screenshots/10_DNS_Records.png",
+      "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/screenshots/03_what_we_ship.png",
+      "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/screenshots/05_avaliable_domains.png",
+      "https://raw.githubusercontent.com/vibecode-ting/myanmardev.com/main/screenshots/08_cloudflare_wokers.png"
+    ],
+    "type": "web-app",
+    "stack": [
+      "TypeScript",
+      "Astro",
+      "Shell"
+    ],
+    "chapter": 6,
+    "team": 5
+  },
+  {
     "github": "wailynn351",
     "name": "wailynn351",
     "title": "wc2026-world-cup-predictor",
@@ -2534,7 +2567,8 @@
     ],
     "type": "bot",
     "stack": [
-      "JavaScript"
+      "JavaScript",
+      "HTML"
     ],
     "chapter": 5,
     "team": 14
