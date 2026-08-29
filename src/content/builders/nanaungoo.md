@@ -20,10 +20,10 @@ certs:
   building_claude_api: https://verify.skilljar.com/c/qah8tumgoa9e
   claude_platform_101: https://verify.skilljar.com/c/o5zev75muxkm
   claude_cowork: https://verify.skilljar.com/c/wc2vii2gxkmy
+  ai_fluency: https://verify.skilljar.com/c/nr4m87ih5snz
   # mcp_advanced: https://anthropic.skilljar.com/model-context-protocol-advanced-topics
   # claude_bedrock: https://anthropic.skilljar.com/claude-in-amazon-bedrock
   # claude_vertex: https://anthropic.skilljar.com/claude-with-google-vertex
-  ai_fluency: https://verify.skilljar.com/c/nr4m87ih5snz
   # ai_fluency_for_educators: https://anthropic.skilljar.com/ai-fluency-for-educators
   # github_foundations: https://www.credly.com/badges/github-foundations
   # git_essential_training: https://www.linkedin.com/learning/git-essential-training
