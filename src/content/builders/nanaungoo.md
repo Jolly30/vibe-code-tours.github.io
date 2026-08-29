@@ -15,7 +15,6 @@ certs:
   mcp_intro: https://verify.skilljar.com/c/ydww577oeok7
   agent_skills_intro: https://verify.skilljar.com/c/hi83hjczdzuy
   subagents_intro: https://verify.skilljar.com/c/oh83sinfpszy
-  mcp_intro: https://verify.skilljar.com/c/ydww577oeok7
   claude_code_in_action: https://verify.skilljar.com/c/qtu3nqe8qj6x
   building_claude_api: https://verify.skilljar.com/c/qah8tumgoa9e
   claude_platform_101: https://verify.skilljar.com/c/o5zev75muxkm
